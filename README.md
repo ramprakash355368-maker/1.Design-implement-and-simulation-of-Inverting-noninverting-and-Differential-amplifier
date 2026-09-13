@@ -63,7 +63,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
 6.	Practical gain & theoretical voltage should be approximately equal.
 7.	Plot the graph of the input wave versus output wave for any one practical case.
    
-** Differential amplifier:**
+**Differential amplifier:**
 1.	Select the value of R1, R2, R3 & Rf such that R1=R2 and R3=Rf.
 2.	Connect the circuit as per as the circuit diagram.
 3.	Provide constant input voltage Vin1 to Non-inverting terminal of op-amp through R1 & constant input voltage Vin2 to inverting terminal of op-amp through R2.
@@ -73,38 +73,68 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
+<img width="1600" height="535" alt="WhatsApp Image 2026-09-13 at 7 46 45 PM" src="https://github.com/user-attachments/assets/c6efb541-1cf2-419e-b891-2f3932a21999" />
+
+
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="1422" height="701" alt="WhatsApp Image 2026-09-13 at 7 47 46 PM" src="https://github.com/user-attachments/assets/691528c2-42c1-4c5a-98b1-8aff8ff2d4fa" />
 
 
   **MODEL GRAPH:**
+<img width="1406" height="946" alt="WhatsApp Image 2026-09-13 at 7 48 42 PM" src="https://github.com/user-attachments/assets/4eee4ad0-b908-40cc-925f-b47fbbe7570d" />
 
 
   **TABULATION:**
- 
+ <img width="1306" height="784" alt="WhatsApp Image 2026-09-13 at 7 49 44 PM" src="https://github.com/user-attachments/assets/80d30a58-a376-40d0-8be1-2692373a9dde" />
+**CALCULATION:**
+<img width="1600" height="683" alt="WhatsApp Image 2026-09-13 at 7 53 11 PM" src="https://github.com/user-attachments/assets/74eec40e-0c3c-40e4-8b6b-104b328f1775" />
 
-**MODEL CALCULATION:**
+**GRAPH:**
+<img width="1600" height="1033" alt="WhatsApp Image 2026-09-13 at 8 04 37 PM" src="https://github.com/user-attachments/assets/13de6067-e91a-47ad-8a87-425fca4083ac" />
+
+
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="1600" height="994" alt="WhatsApp Image 2026-09-13 at 7 50 52 PM" src="https://github.com/user-attachments/assets/8922fe8e-925b-4cc7-9d68-5bf9b0d13801" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="984" alt="WhatsApp Image 2026-09-13 at 7 51 48 PM" src="https://github.com/user-attachments/assets/b02e8b0a-d0cc-4906-909f-92430dbab576" />
 
 
   **TABULATION:**
+<img width="1600" height="928" alt="WhatsApp Image 2026-09-13 at 7 52 19 PM" src="https://github.com/user-attachments/assets/b789523b-7d2b-43e5-b1b6-440fb28ea86b" />
+
+**CALCULATION:**
+<img width="1600" height="573" alt="WhatsApp Image 2026-09-13 at 7 55 21 PM" src="https://github.com/user-attachments/assets/5d50b781-85ca-495e-8ffc-38c45c2a6463" />
+
+**GRAPH:**
+<img width="1600" height="892" alt="WhatsApp Image 2026-09-13 at 8 05 06 PM" src="https://github.com/user-attachments/assets/905788a1-f573-427e-93f5-e13e8116ead2" />
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="867" alt="WhatsApp Image 2026-09-13 at 7 56 03 PM" src="https://github.com/user-attachments/assets/c96eedd9-257f-4490-b828-021ee505a7af" />
+
 
 
   **MODEL GRAPH:**
+<img width="1323" height="826" alt="WhatsApp Image 2026-09-13 at 7 56 28 PM" src="https://github.com/user-attachments/assets/6c21f5ac-7eab-40a0-97ca-92c02735096e" />
 
 
   **TABULATION:**
+<img width="1600" height="951" alt="WhatsApp Image 2026-09-13 at 7 56 52 PM" src="https://github.com/user-attachments/assets/79514332-02f5-4b67-a080-ef543c98e264" />
 
-**LT-SPICE Tool:PROCEDURE:**
+**CALCULATION:**
+<img width="1600" height="632" alt="WhatsApp Image 2026-09-13 at 7 57 19 PM" src="https://github.com/user-attachments/assets/5a0d2bb9-7c3a-4cca-bed4-c92f9f1a77e3" />
+
+**GRAPH:**
+<img width="1600" height="1526" alt="WhatsApp Image 2026-09-13 at 8 05 41 PM" src="https://github.com/user-attachments/assets/d0ace1c6-a867-48c6-8fc6-f28d8e2706cc" />
+
+**LT-SPICE Tool:**
+**PROCEDURE:**
 •	Double click on LT-Spice icon.
 •	New schematic window open.
 •	Pick and paste the required component from the library and draw the circuit diagram .
@@ -115,6 +145,15 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  **INVERTING AMPLIFIER:**
+  <img width="1600" height="900" alt="WhatsApp Image 2026-09-13 at 7 39 53 PM" src="https://github.com/user-attachments/assets/ffdf0bc6-7fbb-48a9-8f56-c59bf8afe2ae" />
+
+**NON INVERTING AMPLIFIER:**
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-13 at 7 39 53 PM (1)" src="https://github.com/user-attachments/assets/735d8669-5c91-4573-a379-5abe7bf5c858" />
+
+**DIFFERENTIAL AMPLIFIER:**
+  <img width="821" height="413" alt="WhatsApp Image 2026-09-13 at 8 11 07 PM" src="https://github.com/user-attachments/assets/de7e9556-e3e0-484d-ac27-8a5c58b34a78" />
+
   
 
 **RESULT:**
